@@ -1,0 +1,25 @@
+{
+  "name": "weather-forecasting-app",
+  "version": "1.0.0",
+  "description": "Modern weather forecasting app built with Next.js, Tailwind CSS, and Framer Motion",
+  "private": true,
+  "dependencies": {
+    "framer-motion": "^11.3.31",
+    "lucide-react": "^0.468.0",
+    "next": "^14.2.14",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.13.3"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.0",
+    "postcss": "^8.4.24",
+    "autoprefixer": "^10.4.14"
+  }
+}
